@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\ProjectC\Snake\Snake\main.cpp(6,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\ProjectC\Snake\Snake\main.cpp(6,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Snake.vcxproj -> D:\ProjectC\Snake\x64\Debug\Snake.exe
